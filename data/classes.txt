@@ -1,0 +1,28 @@
+Applicator
+Arch Ref
+Door Handle
+Finish
+Frameless Window
+Glass Specification
+Glass Thick
+Height 1
+Height 2
+Height 3
+Height 4
+Height 5
+Height Frameless
+Hollow
+Include/Exclude
+Item
+Leaves
+Normal
+Project
+Quantity
+Tanam
+Width 1
+Width 2
+Width 3
+Width 4
+Width 5
+Width Frameless
+Window Handle

@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Applicator"
+    },
+    {
+      "id": 1,
+      "name": "Arch Ref"
+    },
+    {
+      "id": 2,
+      "name": "Door Handle"
+    },
+    {
+      "id": 3,
+      "name": "Finish"
+    },
+    {
+      "id": 4,
+      "name": "Frameless Window"
+    },
+    {
+      "id": 5,
+      "name": "Glass Specification"
+    },
+    {
+      "id": 6,
+      "name": "Glass Thick"
+    },
+    {
+      "id": 7,
+      "name": "Height 1"
+    },
+    {
+      "id": 8,
+      "name": "Height 2"
+    },
+    {
+      "id": 9,
+      "name": "Height 3"
+    },
+    {
+      "id": 10,
+      "name": "Height 4"
+    },
+    {
+      "id": 11,
+      "name": "Height 5"
+    },
+    {
+      "id": 12,
+      "name": "Height Frameless"
+    },
+    {
+      "id": 13,
+      "name": "Hollow"
+    },
+    {
+      "id": 14,
+      "name": "Include\/Exclude"
+    },
+    {
+      "id": 15,
+      "name": "Item"
+    },
+    {
+      "id": 16,
+      "name": "Leaves"
+    },
+    {
+      "id": 17,
+      "name": "Normal"
+    },
+    {
+      "id": 18,
+      "name": "Project"
+    },
+    {
+      "id": 19,
+      "name": "Quantity"
+    },
+    {
+      "id": 20,
+      "name": "Tanam"
+    },
+    {
+      "id": 21,
+      "name": "Width 1"
+    },
+    {
+      "id": 22,
+      "name": "Width 2"
+    },
+    {
+      "id": 23,
+      "name": "Width 3"
+    },
+    {
+      "id": 24,
+      "name": "Width 4"
+    },
+    {
+      "id": 25,
+      "name": "Width 5"
+    },
+    {
+      "id": 26,
+      "name": "Width Frameless"
+    },
+    {
+      "id": 27,
+      "name": "Window Handle"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
